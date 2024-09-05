@@ -1,14 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://www.milecrew.com/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://www.milecrew.com/de/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.milecrew.com/en/index.html</loc>
+  </url>
+  <url>
+    <loc>https://www.milecrew.com/en/legal.html</loc>
+  </url>
+  <url>
+    <loc>https://www.milecrew.com/en/privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://www.milecrew.com/en/jobs.html</loc>
+  </url>
+  <url>
+    <loc>https://www.milecrew.com/de/index.html</loc>
+  </url>
+  <url>
+    <loc>https://www.milecrew.com/de/legal.html</loc>
+  </url>
+  <url>
+    <loc>https://www.milecrew.com/de/privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://www.milecrew.com/de/jobs.html</loc>
+  </url>
+  <url>
+    <loc>https://www.milecrew.com/index.html</loc>
+  </url>
+</urlset>
