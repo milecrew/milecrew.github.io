@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://www.milecrew.com/sitemap.xml
