@@ -26,6 +26,18 @@
                 href="https://www.milecrew.com/en/privacy/"
                 />
   </url><url>
+    <loc>https://www.milecrew.com/en/cto-concept/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://www.milecrew.com/de/cto-concept/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://www.milecrew.com/en/cto-concept/"
+                />
+  </url><url>
     <loc>https://www.milecrew.com/en/jobs/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,18 +48,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://www.milecrew.com/en/jobs/"
-                />
-  </url><url>
-    <loc>https://www.milecrew.com/en/terms/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://www.milecrew.com/de/terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://www.milecrew.com/en/terms/"
                 />
   </url><url>
     <loc>https://www.milecrew.com/en/contact/</loc>
@@ -72,6 +72,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://www.milecrew.com/en/imprint/"
+                />
+  </url><url>
+    <loc>https://www.milecrew.com/404.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://www.milecrew.com/de/404.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://www.milecrew.com/404.html"
                 />
   </url><url>
     <loc>https://www.milecrew.com/en/</loc>

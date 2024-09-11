@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.milecrew.com/de/terms/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://www.milecrew.com/en/terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://www.milecrew.com/de/terms/"
-                />
   </url><url>
     <loc>https://www.milecrew.com/de/privacy/</loc>
     <xhtml:link
@@ -36,6 +26,18 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="https://www.milecrew.com/de/about-us/"
+                />
+  </url><url>
+    <loc>https://www.milecrew.com/de/cto-concept/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://www.milecrew.com/en/cto-concept/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://www.milecrew.com/de/cto-concept/"
                 />
   </url><url>
     <loc>https://www.milecrew.com/de/jobs/</loc>
