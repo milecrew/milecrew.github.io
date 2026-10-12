@@ -1,0 +1,35 @@
+# Milecrew
+
+> Milecrew GmbH is a software crew from Cologne, Germany. It provides consulting and interim CTO services, develops software products in pragmatic milestones and operates them – simply good software.
+
+The website is available in English and German. Job postings are published in
+German only. Contact: hello@milecrew.com, Gürzenichstrasse 21a-c,
+50667 Cologne, Germany.
+
+## Pages (English)
+
+- [Milecrew](https://www.milecrew.com/en/): Simply Good Software
+- [About Us](https://www.milecrew.com/en/about-us/): More Than a Team: We Are Milecrew.
+- [Our Concept](https://www.milecrew.com/en/cto-concept/): Milecrew’s Holistic CTO Approach: Consulting, Technology & Organization
+- [Jobs](https://www.milecrew.com/en/jobs/): Join the Crew, working at Milecrew
+- [Contact](https://www.milecrew.com/en/contact/): We are your project crew – contact us.
+
+## Pages (German)
+
+- [Milecrew](https://www.milecrew.com/de/): Einfach gute Software
+- [Über uns](https://www.milecrew.com/de/about-us/): Mehr als ein Team: Wir sind die Milecrew.
+- [Unser Konzept](https://www.milecrew.com/de/cto-concept/): Der Holistic CTO Approach der Milecrew: Beratung, Technologie und Organisation
+- [Jobs](https://www.milecrew.com/de/jobs/): Werde Teil der Crew, Arbeiten bei der Milecrew
+- [Kontakt](https://www.milecrew.com/de/contact/): Wir sind deine Projekt-Crew – kontaktiere uns.
+
+## Jobs (German)
+
+- [Software Engineer Teamlead](https://www.milecrew.com/de/jobs/software-engineer-teamlead/): Software Engineer Teamlead – Werde Teil der Crew, Arbeiten bei der Milecrew
+
+## Optional
+
+- [Privacy](https://www.milecrew.com/en/privacy/): Privacy Policy
+- [Legal Notice](https://www.milecrew.com/en/imprint/): Legal Notice / Imprint
+- [Datenschutz](https://www.milecrew.com/de/privacy/): Datenschutz
+- [Impressum](https://www.milecrew.com/de/imprint/): Impressum
+- [AGB](https://www.milecrew.com/de/terms/): AGB
